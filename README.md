@@ -31,10 +31,8 @@ This repository contains comprehensive resources, code implementations, and docu
 
 Open the Jupyter Notebooks provided in the repository to explore different image processing techniques. Each notebook contains detailed explanations, code implementations, and example images to help you understand the concepts.
 
-## Contributing
+## Contributor:
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License
+**Kaleem Ullah**
+Research Assitant **Digital Image Processing (DIP) Lab** Department of Computer Scinece Islamia College University, Peshawar, Pakistan.
+Remote Research Assistant **Visual Analytics Lab (VIS2KNOW)** Department of Applied AI Sungkyunkwan University, Seoul, South Korea.
