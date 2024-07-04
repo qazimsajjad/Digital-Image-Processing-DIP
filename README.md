@@ -24,7 +24,11 @@ This repository contains comprehensive resources, code implementations, and docu
     ```
 3. **Install Dependencies**:
     ```sh
-    pip install -r requirements.txt
+    python => 3.9
+    numpy
+    matplotlib
+    pillow
+    opencv
     ```
 
 ## Usage
