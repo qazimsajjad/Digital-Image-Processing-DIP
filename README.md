@@ -16,7 +16,7 @@ This repository contains comprehensive resources, code implementations, and docu
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Digital-Image-Processing.git
+    git clone https://github.com/qazimsajjad/Digital-Image-Processing.git
     ```
 2. **Navigate to the Directory**:
     ```sh
