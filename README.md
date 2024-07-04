@@ -2,15 +2,17 @@
 
 This repository contains comprehensive resources, code implementations, and documentation for various digital image processing techniques and algorithms. It serves as a valuable resource for students, researchers, and professionals interested in the field of image processing.
 
-## Features
+## Outlines
 
-- **Image Filtering**: Examples and explanations of spatial and frequency domain filtering techniques.
+- **Image Transformation**: Techniques for image log, Gamma Correction, rotation, scaling, translation, and affine transformations.
+- **Image Filtering**: Examples and explanations of spatial filtering techniques such as Smoothing, sharpening, local Enhancement through statistical properties.
 - **Image Enhancement**: Techniques for improving the visual appearance of images, including histogram equalization, contrast adjustment, and more.
-- **Image Segmentation**: Methods for dividing an image into meaningful regions, such as thresholding, edge detection, and clustering.
+- **Binary Image Analysis**: Implementation of dilation, erosion, opening, closing, and other morphological transformations on binary images.
 - **Morphological Operations**: Implementation of dilation, erosion, opening, closing, and other morphological transformations.
-- **Image Transformation**: Techniques for image rotation, scaling, translation, and affine transformations.
-- **Color Image Processing**: Handling and processing of color images, including color space conversions and enhancements.
-- **Feature Extraction**: Methods for detecting and extracting features from images, such as corners, edges, and blobs.
+- **Color Image Processing**: Pseudo Colorization, Handling and processing of color images, including color space conversions and enhancements.
+- **Image Segmentation**: Methods for dividing an image into meaningful regions, such as thresholding, edge detection, and clustering.
+- **Feature Extraction**: Methods for detecting and extracting features from images, such as LBP, SIFT, ORB, HOG and others.
+- **Feature Based Learning**: Methods for training various ML algorithm to learn patterns through features.
 
 ## Getting Started
 
