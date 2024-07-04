@@ -22,7 +22,7 @@ This repository contains comprehensive resources, code implementations, and docu
     ```
 2. **Navigate to the Directory**:
     ```sh
-    cd Digital-Image-Processing
+    cd Digital-Image-Processing-DIP
     ```
 3. **Install Dependencies**:
     ```sh
