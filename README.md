@@ -1,6 +1,6 @@
-# Digital Image Processing (DIP)
+# Digital Image Processing (DIP) Course 
 
-This repository contains comprehensive resources, code implementations, and documentation for various digital image processing techniques and algorithms. It serves as a valuable resource for students, researchers, and professionals interested in the field of image processing.
+This repository contains comprehensive resources, code implementations, and documentation for various digital image processing techniques and algorithms. It serves as a valuable resource for beginner students learning DIP and for teachers instructing undergraduate and postgraduate courses in DIP.
 
 ## Outlines
 
